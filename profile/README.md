@@ -1,4 +1,5 @@
-## 🐲 WatsuTatsu - A Game Development Group
+## 🐲 WatsuTatsu
+> #### A Game Develop Group
 
 ### Our Goal
 

@@ -1,4 +1,5 @@
-## Hi there 👋
+## Game Development
+> Just another group of nerds learning game development
 
 <!--
 

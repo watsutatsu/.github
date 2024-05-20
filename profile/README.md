@@ -1,5 +1,5 @@
 ## 🐲 WatsuTatsu
-> #### A Game Develop Group
+> #### Creating Games, Cultivating Excellence, Celebrating Fun
 
 ### Our Goal
 
